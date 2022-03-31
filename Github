@@ -1,1 +1,10 @@
-Hallo
+1.	Repository	      Alle Dateien des Programmes „Lager“
+2.	commit	          „Save“ Änderung einer Datei und das Speichern der Änderung.
+3.	branch	          Verzweigen des Projektes (Eventuell für neue Ideen geeignet, bei denen man sich unsicher ist oder um 2 verschieden Versionen des selben Projektes zu haben)
+4.	Pull requests	    Anfrage eine Änderung des Mainzweiges aus einem  Nebenzweig oder fork.
+5.	merge	            Verschmelzung des branches mit dem main branch nach einem Pull request
+6.	fork	            Ein Repository kopieren um separat daran arbeiten zu können.
+7.	issues	          Ein platz auf Github um Kommentare zu schreiben
+8.	Commit-hashcode	  Ein einzigartiger Code für einen commit.
+9.	clone	            Kopieren eines Repositorys auf meinen Computer(Download)
+
